@@ -36,3 +36,16 @@ The website showcases my experience in **Business Development**, **International
 
 ## 📂 Project Structure
 
+
+---
+
+## 📬 Contact
+📧 Email: **zaslinks@gmail.com**  
+🔗 LinkedIn: https://linkedin.com/in/zahedzaslinks  
+🐙 GitHub: https://github.com/zahedbri  
+
+---
+
+### ⭐ If you like this project, feel free to star the repository!
+
+
